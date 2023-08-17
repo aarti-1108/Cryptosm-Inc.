@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cryptosm-Inc./static/css/main.44bb55ea.css",
+    "main.js": "/Cryptosm-Inc./static/js/main.75e9d722.js",
+    "static/media/cryptocurrency.png": "/Cryptosm-Inc./static/media/cryptocurrency.1548aced3f0605895bac.png",
+    "index.html": "/Cryptosm-Inc./index.html",
+    "main.44bb55ea.css.map": "/Cryptosm-Inc./static/css/main.44bb55ea.css.map",
+    "main.75e9d722.js.map": "/Cryptosm-Inc./static/js/main.75e9d722.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44bb55ea.css",
+    "static/js/main.75e9d722.js"
+  ]
+}
